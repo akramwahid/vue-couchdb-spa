@@ -1,4 +1,4 @@
-# vue.js-couchdb-spa-library-management-system
+# Vue.js, CouchDB Single Page Application for Library Management
 This is a Single Page Library Management Application based on Vue.js and CouchDB Hosted on [DigitalOcean Server](https://m.do.co/c/50622a336635). I developed this application to demonstrate my potential skills with CouchDB Nosql and Vue.js SPA development.
 This system consisting of features such as Manage Book Lending, CRUD Books, Manage Members of the Library, Manage Users and Roles etc..
 
